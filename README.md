@@ -28,4 +28,4 @@ $ ionic serve
 
 Open your browser http://localhost:8100/
 
-Tutorial: <a href="https://dowstoreapp.blogspot.com/">Ionic 2 Mobile App using Angular 2 and TypeScript Tutorial</a>
+Tutorial: <a href="https://dowstoreapp.blogspot.com/">here</a>
