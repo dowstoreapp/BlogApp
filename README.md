@@ -1,5 +1,5 @@
 # BlogApp
-An iOS and Android application for Google Blogger hosted websites. This package is powered by www.9lessons.info blog feed content and developed using Ionic v2 and Angular 2.   
+An iOS and Android application for Google Blogger hosted websites. This package is shared by https://dowstoreapp.blogspot.com/ blog feed content and developed using Ionic v2 and Angular 2.   
 
 <table><tr><td width="25%">
 <img src="https://i.imgur.com/XQ4RtzF.png" width="200" alt="Ionic2 Angular2 Typescript Blog Application">
@@ -28,4 +28,4 @@ $ ionic serve
 
 Open your browser http://localhost:8100/
 
-Tutorial: <a href="http://www.9lessons.info/2017/01/ionic-2-mobile-app-using-angular-2-and.html">Ionic 2 Mobile App using Angular 2 and TypeScript Tutorial</a>
+Tutorial: <a href="https://dowstoreapp.blogspot.com/">Ionic 2 Mobile App using Angular 2 and TypeScript Tutorial</a>
